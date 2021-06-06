@@ -1,9 +1,9 @@
 ## GRAFO
-Semárna práca z predmetu APO. Viacej viz zadanie: assignment/assignment_grafo_ruzinsky.pdf
+Semestrálna práca z predmetu APO. Viacej viz zadanie: assignment/assignment_grafo_ruzinsky.pdf
 
-GitLab repository: https://gitlab.fel.cvut.cz/
+GitLab repository: https://github.com/RuzinskyDavid/APO-GRAFO
 
-Použivateľský manuál: documentation/manual.pdf
+Používateľský manuál: documentation/manual.pdf
 
 Dokumentácia: documentation/documentation.md
 
