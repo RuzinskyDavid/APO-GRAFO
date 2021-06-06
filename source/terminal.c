@@ -74,7 +74,7 @@ unsigned long myStrLen(const char *str) {
 /* Prints out vertical and horizontal coordinate from input */
 void print_coordinates(uint16_t x, uint16_t y) {
 
-    print_str_on_terminal("Coord are: ");
+    print_str_on_terminal("Coordinates: ");
     char str_x[12];
     char str_y[12];
     char *str_x_ptr = str_x;
