@@ -4,7 +4,7 @@ User manual for the game GRAFO.
 # Installation
     1. Download the code:
     2. Install QTMips from this site: https://github.com/cvut/QtMips/releases/
-    3. Set up your QTMips to see LCD Display, terminal with input, LED’s and knobs like the picture shows.
+    3. Set up your QTMips to see LCD Display, terminal with input, LEDs and knobs like the picture shows.
     
 ![Alt-Text](qtmips_setup.png)
 
